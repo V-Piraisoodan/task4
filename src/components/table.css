@@ -1,0 +1,17 @@
+.header{
+    display: flex;
+    font-size: 18px;
+    color: white;
+    border-radius: 7px;
+    background: linear-gradient(90deg, rgba(110,5,208,1) 0%, rgba(96,21,227,1) 100%);   
+}
+
+.header-value{
+    border-right: 1px solid white;
+    padding: 10px 10px;
+}
+
+.header-data{
+    display: flex;
+    background-color: rgb(247, 237, 247);
+}
